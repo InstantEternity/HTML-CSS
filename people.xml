@@ -1,0 +1,70 @@
+<list>
+<person_1>
+<id>14578913</id>
+<name>Леонид</name>
+<city>Луцк</city>
+    <address>
+    <street>ул. Шептицкого</street>
+    <housenumber>28</housenumber>
+    <apartment>137</apartment>
+    </address>
+  <contacts>
+  <phonenumber1>0935438756</phonenumber1>
+  <phonenumber2>0679384567</phonenumber2>
+  <email>leon123@gmail.com</email>
+  <skype>leon123</skype>
+  </contacts>
+ </person_1>
+
+<person_2>
+<id>54578913</id>
+<name>Ира</name>
+<city>Черновцы</city>
+    <address>
+    <street>ул. І. Франка</street>
+    <housenumber>12</housenumber>
+    <apartment>67</apartment>
+    </address>
+  <contacts>
+  <phonenumber1>0932975756</phonenumber1>
+  <phonenumber2>0679193267</phonenumber2>
+  <email>ira123@gmail.com</email>
+  <skype>ira123</skype>
+  </contacts>
+ </person_2>
+
+<person_3>
+<id>89578913</id>
+<name>Наталья</name>
+<city>Ужгород</city>
+    <address>
+    <street>ул. Швабська</street>
+    <housenumber>19</housenumber>
+    <apartment>7</apartment>
+    </address>
+  <contacts>
+  <phonenumber1>0932939564</phonenumber1>
+  <phonenumber2>0679998767</phonenumber2>
+  <email>natali123@gmail.com</email>
+  <skype>natali123</skype>
+  </contacts>
+ </person_3>
+
+<person_4>
+<id>76578913</id>
+<name>Вадим</name>
+<city>Киев</city>
+    <address>
+    <street>ул. Драгоманова</street>
+    <housenumber>35</housenumber>
+    <apartment>22</apartment>
+    </address>
+  <contacts>
+  <phonenumber1>0936433756</phonenumber1>
+  <phonenumber2>0678213267</phonenumber2>
+  <email>vadim123@gmail.com</email>
+  <skype>vadim123</skype>
+  </contacts>
+ </person_4>
+
+ </list>
